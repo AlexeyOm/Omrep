@@ -2,7 +2,7 @@
 if(true==1) {
   echo "Тру";
 }
-  else {
+else {
   echo "Not true true";
 }
 ?>
