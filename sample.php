@@ -5,4 +5,5 @@ if(true==1) {
 else {
   echo "Not true true";
 }
+echo "anyway";
 ?>
